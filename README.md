@@ -1,5 +1,5 @@
 # MOS-VLSI-Circuit-Design
-# ***_RTL-design-with-verilog-using-SKY130-Technology_***
+# ***_6bit Left Shift using basic gates in Cadance Virtuoso_***
 
 ***
 <p align="center">
