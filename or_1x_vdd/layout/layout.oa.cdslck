@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pram
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              233686
+ProcessCreationTime_UTC        1637770261
+ProcessCreationTime_Readable   Wed Nov 24 08:11:01 2021 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/00/pram/EE477/cds/Nov/or_1x_vdd/layout/layout.oa.cdslck
+TimeEditLocked                 Wed Nov 24 09:08:09 2021 PST
